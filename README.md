@@ -1,4 +1,4 @@
-# My_programing_challenges_101
+# My-programing-challenges-101
 
 - En este repositorio tengo todos los ejercicios de la pagina https://retosdeprogramacion.com/ejercicios que he hecho.
 
