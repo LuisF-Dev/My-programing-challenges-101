@@ -7,20 +7,20 @@
  * - Múltiplos de 3 y de 5 a la vez por la palabra "fizzbuzz".
  */
 
-function main(){
-    for (let number = 0; number < 101; ++number){
-        if (number % 3 == 0 && number % 5 == 0){
+function main() {
+    for (let number = 0; number < 101; ++number) {
+        if (number % 3 == 0 && number % 5 == 0) {
             console.log("fizzbuzz");
-        }else if (number % 5 == 0){
+        } else if (number % 5 == 0) {
             console.log("buzz");
-        }else if (number % 3 == 0){
+        } else if (number % 3 == 0) {
             console.log("fizz");
-        }else {
+        } else {
             console.log(number);
         }
     }
 }
 
-main()
+main();
 
 // terminado el 2024-05-17
